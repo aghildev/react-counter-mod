@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-counter-mod/static/css/main.b003ecbe.css",
+    "main.js": "/react-counter-mod/static/js/main.363ea3f6.js",
+    "index.html": "/react-counter-mod/index.html",
+    "main.b003ecbe.css.map": "/react-counter-mod/static/css/main.b003ecbe.css.map",
+    "main.363ea3f6.js.map": "/react-counter-mod/static/js/main.363ea3f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b003ecbe.css",
+    "static/js/main.363ea3f6.js"
+  ]
+}
